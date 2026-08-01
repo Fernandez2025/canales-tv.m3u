@@ -220,18 +220,6 @@ http://somoseluno.blog:80/live/Bertha123/Bertha123/400194.ts
 http://somoseluno.blog:80/live/Bertha123/Bertha123/69293.ts
 #EXTINF:-1 tvg-id="WinSports.co" tvg-name="CO | Win Sports SD" tvg-logo="http://mundo2.pro:80/images/cf1a7657ce6424825327f193d3d30618.png" group-title="⚽DEPORTES COLOMBIA⚽",CO | Win Sports SD
 http://somoseluno.blog:80/live/Bertha123/Bertha123/69294.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC l ECDF HD" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="⚽DEPORTES ECUADOR⚽",EC l ECDF HD
-http://somoseluno.blog:80/live/Bertha123/Bertha123/314939.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC l 3CDF HD OP 02" tvg-logo="http://mundo2.pro:80/images/5b53a9aaf5778c6259e3faecd5e46ef1.png" group-title="⚽DEPORTES ECUADOR⚽",EC l 3CDF HD OP 02
-http://somoseluno.blog:80/live/Bertha123/Bertha123/314940.ts
-#EXTINF:-1 tvg-id="" tvg-name="EC : D$ports~ HD OP 02" tvg-logo="http://mundo2.pro:80/images/719eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK.png" group-title="⚽DEPORTES ECUADOR⚽",EC : D$ports~ HD OP 02
-http://somoseluno.blog:80/live/Bertha123/Bertha123/316112.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECU: GOLTV PPV (EVENTOS ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="⚽DEPORTES ECUADOR⚽",ECU: GOLTV PPV (EVENTOS ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ)
-http://somoseluno.blog:80/live/Bertha123/Bertha123/401841.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECU: EL CANAL DEL FUTBOL ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Canal_del_F%C3%BAtbol_-_logo_2015.png" group-title="⚽DEPORTES ECUADOR⚽",ECU: EL CANAL DEL FUTBOL ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ
-http://somoseluno.blog:80/live/Bertha123/Bertha123/401842.ts
-#EXTINF:-1 tvg-id="" tvg-name="ECU: D ECUADOR ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" group-title="⚽DEPORTES ECUADOR⚽",ECU: D ECUADOR ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ
-http://somoseluno.blog:80/live/Bertha123/Bertha123/401843.ts
 DEPORTES CHILE
 #EXTINF:-1 tvg-id="" tvg-name="CL | *T*N*T SPORTS HD/OP/ 01" tvg-logo="http://mundo2.pro:80/images/c225cdb5c9a1b6ec33c4d5f8814e6770.png" group-title="⚽DEPORTES CHILE⚽",CL | *T*N*T SPORTS HD/OP/ 01
 http://somoseluno.blog:80/live/Bertha123/Bertha123/276332.ts
@@ -319,7 +307,7 @@ http://somoseluno.blog:80/live/Bertha123/Bertha123/306866.ts
 http://somoseluno.blog:80/live/Bertha123/Bertha123/306867.ts
 #EXTINF:-1 tvg-id="" tvg-name="PE | MOVISTAR DEPORTES SD" tvg-logo="http://mundo2.pro:80/images/19eWJh8J6Mx9DrGXKEv3ojKmqw8Cv9pscK.jpg" group-title="⚽DEPORTES PERUANO⚽",PE | MOVISTAR DEPORTES SD
 http://somoseluno.blog:80/live/Bertha123/Bertha123/306868.ts
-ZONA DEPORTES
+ZONA DEPORTES ESPN PREMIUN
 #EXTINF:-1 tvg-id="" tvg-name="E$PN HD" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN HD
 http://somoseluno.blog:80/live/Bertha123/Bertha123/306385.ts
 #EXTINF:-1 tvg-id="" tvg-name="ESPN HD OP 2" tvg-logo="http://mundo2.pro:80/images/db74988ae31d459907f62c43dcc987eb.jpg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN HD OP 2
@@ -352,12 +340,7 @@ http://somoseluno.blog:80/live/Bertha123/Bertha123/306397.ts
 http://somoseluno.blog:80/live/Bertha123/Bertha123/306398.ts
 #EXTINF:-1 tvg-id="" tvg-name="E$PN PREMIUM AR SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",E$PN PREMIUM AR SD
 http://somoseluno.blog:80/live/Bertha123/Bertha123/306399.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/1024px-ESPN2_logo.svg.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN Brasil 2
-http://somoseluno.blog:80/live/Bertha123/Bertha123/306425.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN Brasil 4
-http://somoseluno.blog:80/live/Bertha123/Bertha123/306427.ts
-#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="⚽ ZONA | ESPN HD PREMIUM ⚽",ESPN Brasil 3
-http://somoseluno.blog:80/live/Bertha123/Bertha123/306426.ts
+ZONA FOX SPORT
 #EXTINF:-1 tvg-id="605" tvg-name="AR | F⚽X SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | F⚽X SPORTS 1 HD
 http://somoseluno.blog:80/live/Bertha123/Bertha123/99836.ts
 #EXTINF:-1 tvg-id="" tvg-name="AR | F⚽X SPORTS 1 SD." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/1200px-Fox_Sports_Argentina_2023.svg.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",AR | F⚽X SPORTS 1 SD.
@@ -386,6 +369,7 @@ http://somoseluno.blog:80/live/Bertha123/Bertha123/306304.ts
 http://somoseluno.blog:80/live/Bertha123/Bertha123/306175.ts
 #EXTINF:-1 tvg-id="" tvg-name="MX | FOX SPORTS PREMIUM SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Fox_sports_premium_mx.png" group-title="⚽ ZONA | FOX SPORTS HD ⚽",MX | FOX SPORTS PREMIUM SD
 http://somoseluno.blog:80/live/Bertha123/Bertha123/306664.ts
+ZONA DSPORT
 #EXTINF:-1 tvg-id="" tvg-name="CO| D$PORTS " tvg-logo="http://myplayente.dynns.com:80/images/81vuVQTMqoCkld3sCzAzQMTuEQ7tt8sRTstlKnGAqtxI4Kn0xUtZDlZNoLj1QV0J5O6BPOvEleKAAHHbIOOfyA.png" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",CO| D$PORTS 
 http://somoseluno.blog:80/live/Bertha123/Bertha123/558622.ts
 #EXTINF:-1 tvg-id="610DTSA.ar" tvg-name="PE | D$PORTS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDlwfoUmwVl4nupZGi1nP4xliVd7sW00raoA&usqp=CAU" group-title="⚽ ZONA | D$PORTS PREMIUM ⚽",PE | D$PORTS HD

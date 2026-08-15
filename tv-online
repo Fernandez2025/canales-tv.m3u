@@ -3,8 +3,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/globetvapp/epg/main/Colombia/colombia1.xml
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 
-#EXTINF:-1 tvg-id="" tvg-name="R | GRAN HERMANO ARGENTINA | 24 HS" tvg-logo="https://elintransigente.com/wp-content/uploads/2024/01/Gran-Hermano.jpg" group-title="GRAN HERMANO ARGENTINA",R | GRAN HERMANO ARGENTINA | 24 HS
-http://flexlive.lat:8080/live/SoldiamarMatamoros1024/e4ExXBdcnJ67/475886.ts
+#EXTINF:-1 tvg-id="" tvg-name="✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐" tvg-logo="https://i.ibb.co/Zp1bgjb5/ARG3.jpg" group-title="GRAN HERMANO ARGENTINA",✓⚡*GR∆N HE®M∆N0 ∆RGĘNTlN∆ ☀️⭐
+http://mundo2.pro:80/live/Bertha123/Bertha123/fad3ae05-7d1a-41ad-9414-18e5eaf8fe1c.m3u
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO 24/7" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO 24/7
 http://alltvmx.com:80/ElmerVillalobos06/c1a718bf6e76ace6/749367.ts
 #EXTINF:-1 tvg-id="" tvg-name="GRAN HERMANO CAM 1" tvg-logo="https://media.a24.com/p/bd593ee64bc53c172578822aa7ecc39b/adjuntos/296/imagenes/009/671/0009671653/1200x675/smart/gran-hermano-generacion-dorada.jpg" group-title="GRAN HERMANO ARGENTINA",GRAN HERMANO CAM 1

@@ -183,6 +183,25 @@ http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-id="DSports" tvg-name="DSports" tvg-logo="https://i.postimg.cc/J0Yv7Yqn/DS1.jpg" group-title="DEPORTES 2026 SUR",DIRECTV HD 2
 http://138.121.113.175:8000/play/a0ca/index.m3u8
 
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT PREMIUN" tvg-logo="https://i.postimg.cc/43xLQyTD/TNTSports-Premium.jpg" group-title="DEPORTES 2026 SUR",TNT Premium HD
+ttp://138.59.227.20:8000/play/a06z/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN PREMIUN" tvg-logo="https://cdn.postimage.me/2026/06/12/ESPN-PREMIUN.jpg" group-title="DEPORTES 2026 SUR",ESPN Premium HD
+http://138.59.227.20:8000/play/a086/index.m3u8
+#EXTINF:-1 tvg-id="FOX SPORT" tvg-name="FOX SPORT" tvg-logo="https://cdn.postimage.me/2026/06/12/fox-sports-2.jpg" group-title="DEPORTES 2026 SUR",Fox Sports HD
+http://138.59.227.20:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="FOX SPORT 2" tvg-logo="https://cdn.postimage.me/2026/06/12/fox-sports-2.jpg" group-title="DEPORTES 2026 SUR",Fox Sports 2 HD
+http://138.59.227.20:8000/play/a09b/index.m3u8
+#EXTINF:-1 tvg-id="DSports" tvg-name="FOX SPORT 3" tvg-logo="https://cdn.postimage.me/2026/06/12/fox-sports-3.jpg" group-title="DEPORTES 2026 SUR",Fox Sports 3 HD
+http://138.59.227.20:8000/play/a06y/index.m3u8
+#EXTINF:-1 tvg-id="TYC SPORT" tvg-name="TYC SPORT" tvg-logo="https://cdn.postimage.me/2026/06/12/TYCSPORT.png" group-title="DEPORTES 2026 SUR",TyC Sports HD
+http://138.59.227.20:8000/play/a06x/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SUR" tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026 SUR",ESPN SUR AR 1
+http://138.59.227.20:8000/play/a099/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN SUR" tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026 SUR",ESPN SUR AR 2
+http://138.59.227.20:8000/play/a098/index.m3u8
+#EXTINF:-1 tvg-id="ESPN" tvg-name="EPN SUR" tvg-logo="https://i.postimg.cc/s2PLGgcL/ESPS1.jpg" group-title="DEPORTES 2026 SUR",ESPN SUR AR 3
+http://138.59.227.20:8000/play/a09a/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »2«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="DEPORTES 2026 SUR",FCL• DIRECTV SPORTS (HD) »2«
 https://alltvmx.com/live/Victoria89/Victoria89/417199.ts
 #EXTINF:-1 tvg-id="" tvg-name="FCL• DIRECTV SPORTS (HD) »1«" tvg-logo="https://i.postimg.cc/d14m3zZS/directvsports.png" group-title="DEPORTES 2026 SUR",FCL• DIRECTV SPORTS (HD) »1«
